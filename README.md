@@ -18,4 +18,4 @@ The website isn't loading! What can I do?
 
 How do I submit a level?
 
-- As of now, the list is fairly small, unprofessional, and new. You can either send a message to me on Discord (my username is thepixelatedplate), or comment on my YouTube channel (my username is @pixelatedplate0.
+- As of now, the list is fairly small, unprofessional, and new. You can either send a message to me on Discord (my username is thepixelatedplate), or comment on my YouTube channel (my username is @pixelatedplate).
